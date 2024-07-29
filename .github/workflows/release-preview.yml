@@ -190,5 +190,6 @@ jobs:
           --artifacts ./charts.tar.gz \
           --artifacts ./changelog.md \
           --artifacts ./changelog-prev-tag.md \
+          --artifacts ./longhorn-images-sbom.tar.gz \
           --pre-release \
           --draft

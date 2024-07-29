@@ -145,5 +145,6 @@ jobs:
           --artifacts ./longhorn.yaml \
           --artifacts ./longhorn-images.txt \
           --artifacts ./charts.tar.gz \
+          --artifacts ./longhorn-images-sbom.tar.gz \
           --pre-release \
           --draft
